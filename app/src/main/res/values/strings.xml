@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TEste Dual Screen</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_secondary">SecondaryActivity</string>
+    <string name="select_media_files_to_display">Select media files to display</string>
+    <string name="select_images">Select Images</string>
+    <string name="select_videos">Select Videos</string>
+    <string name="play">Play</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+</resources>
